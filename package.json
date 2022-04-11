@@ -1,6 +1,7 @@
 {
 	"author": "elhassan taibi",
 	"description":"Tutorial to learn some great things about backend",
+	"keywords": ["You","Can help","your self"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.17.3"
